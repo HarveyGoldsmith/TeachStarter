@@ -1,5 +1,3 @@
-# TeachStarter
-TeachStarter Weather App
 
 This is a small weather widget completed as a technical task for an interview 
 
